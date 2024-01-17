@@ -615,8 +615,8 @@ section {
   transition: 0.3s;
   position: relative;
   overflow: hidden;
-  z-index: 1;
-  background: rgba(69, 80, 91, 0.8);
+  z-index: 1; 
+  background: rgba(255, 255, 255);
 }
 
 .portfolio .portfolio-wrap::before {
